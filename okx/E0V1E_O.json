@@ -17,25 +17,25 @@
       "max_open_trades": 5
     },
     "buy": {
-      "buy_cti_32": -0.28,
-      "buy_ema_high": 1.185,
-      "buy_ema_low": 0.987,
-      "buy_ewo": 4.867,
-      "buy_rsi": 17,
-      "buy_rsi_32": 22,
-      "buy_rsi_fast": 41,
-      "buy_rsi_fast_32": 42,
-      "buy_sma15_32": 0.973
+      "buy_cti_32": -0.17,
+      "buy_ema_high": 1.097,
+      "buy_ema_low": 0.971,
+      "buy_ewo": -5.864,
+      "buy_rsi": 31,
+      "buy_rsi_32": 21,
+      "buy_rsi_fast": 48,
+      "buy_rsi_fast_32": 60,
+      "buy_sma15_32": 0.978
     },
     "sell": {
-      "sell_deadfish_bb_factor": 1.119,
-      "sell_deadfish_bb_width": 0.409,
-      "sell_deadfish_profit": -0.118,
-      "sell_deadfish_volume_factor": 2.102,
-      "sell_fastx": 53
+      "sell_deadfish_bb_factor": 0.958,
+      "sell_deadfish_bb_width": 0.199,
+      "sell_deadfish_profit": -0.062,
+      "sell_deadfish_volume_factor": 1.332,
+      "sell_fastx": 80
     },
     "protection": {}
   },
   "ft_stratparam_v": 1,
-  "export_time": "2024-06-08 01:44:39.673874+00:00"
+  "export_time": "2024-06-09 01:06:48.431048+00:00"
 }
